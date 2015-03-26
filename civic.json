@@ -6,9 +6,9 @@
     "politicalEntity":"BetaNYC",
     "type":"Hurricane Map",
     "needs": [
-        {"need": "Content Editor"},
+        {"need": "Content Editor"}
     ],
     "categories": [
-        {"category": "hurricane"},
+        {"category": "hurricane"}
     ]
 }
